@@ -1,8 +1,8 @@
 shallow-pick
 ============
 
-[![browser support](https://ci.testling.com/maslennikov/shallow-pick.png)
-](https://ci.testling.com/maslennikov/shallow-pick)
+[![build status](https://secure.travis-ci.org/maslennikov/shallow-pick.png)
+](http://travis-ci.org/maslennikov/shallow-pick)
 
 A utility function similar to `pick()` in `underscore` or `lo-dash`.
 
